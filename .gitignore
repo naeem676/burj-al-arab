@@ -23,4 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 
 #firebase configaration ignore
-/src/components/login/firebaseConfig.js
+/login
