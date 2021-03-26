@@ -1,0 +1,17 @@
+.google-pic{
+    width: 5%;
+}
+.google-btn{
+    width: 25%;
+    height: 20%;
+    margin-left: 450px;
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 120%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.google-btn:hover{
+    background-color: rgb(130, 130, 167);
+}
